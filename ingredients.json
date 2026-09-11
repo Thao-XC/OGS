@@ -1,0 +1,1808 @@
+[
+  {
+    "id": "onion",
+    "name": "Onion",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "sweet-potato",
+    "name": "Sweet Potato",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "cherry-tomato",
+    "name": "Cherry Tomato",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "bell-pepper",
+    "name": "Bell Pepper",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "chili-pepper",
+    "name": "Chili Pepper",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "jalapeño",
+    "name": "Jalapeño",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "eggplant",
+    "name": "Eggplant",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "red-cabbage",
+    "name": "Red Cabbage",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "napa-cabbage",
+    "name": "Napa Cabbage",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "romaine-lettuce",
+    "name": "Romaine Lettuce",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "arugula",
+    "name": "Arugula",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "green-beans",
+    "name": "Green Beans",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "snap-peas",
+    "name": "Snap Peas",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "snow-peas",
+    "name": "Snow Peas",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "shiitake-mushroom",
+    "name": "Shiitake Mushroom",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "portobello-mushroom",
+    "name": "Portobello Mushroom",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "butternut-squash",
+    "name": "Butternut Squash",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "acorn-squash",
+    "name": "Acorn Squash",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "beet",
+    "name": "Beet",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "radish",
+    "name": "Radish",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "turnip",
+    "name": "Turnip",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "leek",
+    "name": "Leek",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "scallion",
+    "name": "Scallion",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "shallot",
+    "name": "Shallot",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "artichoke",
+    "name": "Artichoke",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "brussels-sprouts",
+    "name": "Brussels Sprouts",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "bok-choy",
+    "name": "Bok Choy",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "bean-sprouts",
+    "name": "Bean Sprouts",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "parsnip",
+    "name": "Parsnip",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "watercress",
+    "name": "Watercress",
+    "category": "Vegetables",
+    "icon": "🥕"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "blueberry",
+    "name": "Blueberry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "raspberry",
+    "name": "Raspberry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "blackberry",
+    "name": "Blackberry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "grape",
+    "name": "Grape",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "cantaloupe",
+    "name": "Cantaloupe",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "honeydew-melon",
+    "name": "Honeydew Melon",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "peach",
+    "name": "Peach",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "nectarine",
+    "name": "Nectarine",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "plum",
+    "name": "Plum",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "cherry",
+    "name": "Cherry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "fig",
+    "name": "Fig",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "date",
+    "name": "Date",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "raisin",
+    "name": "Raisin",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "dried-apricot",
+    "name": "Dried Apricot",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "persimmon",
+    "name": "Persimmon",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "passion-fruit",
+    "name": "Passion Fruit",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "guava",
+    "name": "Guava",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "Dragon Fruit",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "lychee",
+    "name": "Lychee",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "cranberry",
+    "name": "Cranberry",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "apricot",
+    "name": "Apricot",
+    "category": "Fruits",
+    "icon": "🍎"
+  },
+  {
+    "id": "chicken-breast",
+    "name": "Chicken Breast",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "chicken-thigh",
+    "name": "Chicken Thigh",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "whole-chicken",
+    "name": "Whole Chicken",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ground-chicken",
+    "name": "Ground Chicken",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ground-beef",
+    "name": "Ground Beef",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "beef-steak",
+    "name": "Beef Steak",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "beef-chuck-roast",
+    "name": "Beef Chuck Roast",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ground-pork",
+    "name": "Ground Pork",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "pork-chop",
+    "name": "Pork Chop",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "pork-belly",
+    "name": "Pork Belly",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "pork-tenderloin",
+    "name": "Pork Tenderloin",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "sausage",
+    "name": "Sausage",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ground-turkey",
+    "name": "Ground Turkey",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "turkey-breast",
+    "name": "Turkey Breast",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "lamb-chop",
+    "name": "Lamb Chop",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "ground-lamb",
+    "name": "Ground Lamb",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "duck-breast",
+    "name": "Duck Breast",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "beef-brisket",
+    "name": "Beef Brisket",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "short-ribs",
+    "name": "Short Ribs",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "beef-liver",
+    "name": "Beef Liver",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "salami",
+    "name": "Salami",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "prosciutto",
+    "name": "Prosciutto",
+    "category": "Meat & Poultry",
+    "icon": "🍗"
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "tuna",
+    "name": "Tuna",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "shrimp",
+    "name": "Shrimp",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "crab",
+    "name": "Crab",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "lobster",
+    "name": "Lobster",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "scallop",
+    "name": "Scallop",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "mussel",
+    "name": "Mussel",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "clam",
+    "name": "Clam",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "squid",
+    "name": "Squid",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "octopus",
+    "name": "Octopus",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "cod",
+    "name": "Cod",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "tilapia",
+    "name": "Tilapia",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "sardine",
+    "name": "Sardine",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "anchovy",
+    "name": "Anchovy",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "trout",
+    "name": "Trout",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "mackerel",
+    "name": "Mackerel",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "halibut",
+    "name": "Halibut",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "oyster",
+    "name": "Oyster",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "sea-bass",
+    "name": "Sea Bass",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "snapper",
+    "name": "Snapper",
+    "category": "Seafood",
+    "icon": "🐟"
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "heavy-cream",
+    "name": "Heavy Cream",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "sour-cream",
+    "name": "Sour Cream",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogurt",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "greek-yogurt",
+    "name": "Greek Yogurt",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "cheddar-cheese",
+    "name": "Cheddar Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "mozzarella-cheese",
+    "name": "Mozzarella Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "parmesan-cheese",
+    "name": "Parmesan Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "feta-cheese",
+    "name": "Feta Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "cream-cheese",
+    "name": "Cream Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "cottage-cheese",
+    "name": "Cottage Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "ricotta-cheese",
+    "name": "Ricotta Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "blue-cheese",
+    "name": "Blue Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "goat-cheese",
+    "name": "Goat Cheese",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "buttermilk",
+    "name": "Buttermilk",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "condensed-milk",
+    "name": "Condensed Milk",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "evaporated-milk",
+    "name": "Evaporated Milk",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "ghee",
+    "name": "Ghee",
+    "category": "Dairy & Eggs",
+    "icon": "🧀"
+  },
+  {
+    "id": "white-rice",
+    "name": "White Rice",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "brown-rice",
+    "name": "Brown Rice",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "jasmine-rice",
+    "name": "Jasmine Rice",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "basmati-rice",
+    "name": "Basmati Rice",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "sticky-rice",
+    "name": "Sticky Rice",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "oats",
+    "name": "Oats",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "rolled-oats",
+    "name": "Rolled Oats",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "barley",
+    "name": "Barley",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "couscous",
+    "name": "Couscous",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "bulgur",
+    "name": "Bulgur",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "spaghetti",
+    "name": "Spaghetti",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "penne",
+    "name": "Penne",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "macaroni",
+    "name": "Macaroni",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "egg-noodles",
+    "name": "Egg Noodles",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "rice-noodles",
+    "name": "Rice Noodles",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "udon-noodles",
+    "name": "Udon Noodles",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "soba-noodles",
+    "name": "Soba Noodles",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "ramen-noodles",
+    "name": "Ramen Noodles",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "white-bread",
+    "name": "White Bread",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "whole-wheat-bread",
+    "name": "Whole Wheat Bread",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "baguette",
+    "name": "Baguette",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "tortilla",
+    "name": "Tortilla",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "pita-bread",
+    "name": "Pita Bread",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "naan",
+    "name": "Naan",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "bagel",
+    "name": "Bagel",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "english-muffin",
+    "name": "English Muffin",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "breadcrumbs",
+    "name": "Breadcrumbs",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "panko",
+    "name": "Panko",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "flour",
+    "name": "Flour",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "cornmeal",
+    "name": "Cornmeal",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "polenta",
+    "name": "Polenta",
+    "category": "Grains, Bread & Pasta",
+    "icon": "🍞"
+  },
+  {
+    "id": "black-beans",
+    "name": "Black Beans",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "kidney-beans",
+    "name": "Kidney Beans",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "pinto-beans",
+    "name": "Pinto Beans",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "chickpeas",
+    "name": "Chickpeas",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "lentils",
+    "name": "Lentils",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "split-peas",
+    "name": "Split Peas",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "edamame",
+    "name": "Edamame",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "tempeh",
+    "name": "Tempeh",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "peanut",
+    "name": "Peanut",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "almond",
+    "name": "Almond",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "walnut",
+    "name": "Walnut",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "cashew",
+    "name": "Cashew",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "pistachio",
+    "name": "Pistachio",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "pecan",
+    "name": "Pecan",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "hazelnut",
+    "name": "Hazelnut",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "pine-nut",
+    "name": "Pine Nut",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "sesame-seed",
+    "name": "Sesame Seed",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "sunflower-seed",
+    "name": "Sunflower Seed",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "pumpkin-seed",
+    "name": "Pumpkin Seed",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "chia-seed",
+    "name": "Chia Seed",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "flax-seed",
+    "name": "Flax Seed",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Peanut Butter",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "almond-butter",
+    "name": "Almond Butter",
+    "category": "Legumes, Nuts & Seeds",
+    "icon": "🥜"
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black Pepper",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "white-pepper",
+    "name": "White Pepper",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "smoked-paprika",
+    "name": "Smoked Paprika",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "cayenne-pepper",
+    "name": "Cayenne Pepper",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "chili-powder",
+    "name": "Chili Powder",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "curry-powder",
+    "name": "Curry Powder",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "garam-masala",
+    "name": "Garam Masala",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "nutmeg",
+    "name": "Nutmeg",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "cardamom",
+    "name": "Cardamom",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "star-anise",
+    "name": "Star Anise",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "fennel-seed",
+    "name": "Fennel Seed",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "mustard-seed",
+    "name": "Mustard Seed",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "bay-leaf",
+    "name": "Bay Leaf",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "dried-basil",
+    "name": "Dried Basil",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "chives",
+    "name": "Chives",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "tarragon",
+    "name": "Tarragon",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "lemongrass",
+    "name": "Lemongrass",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "saffron",
+    "name": "Saffron",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "allspice",
+    "name": "Allspice",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "garlic-powder",
+    "name": "Garlic Powder",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "onion-powder",
+    "name": "Onion Powder",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "red-pepper-flakes",
+    "name": "Red Pepper Flakes",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "five-spice-powder",
+    "name": "Five Spice Powder",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "vanilla-extract",
+    "name": "Vanilla Extract",
+    "category": "Herbs & Spices",
+    "icon": "🌿"
+  },
+  {
+    "id": "olive-oil",
+    "name": "Olive Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "vegetable-oil",
+    "name": "Vegetable Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "sesame-oil",
+    "name": "Sesame Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "coconut-oil",
+    "name": "Coconut Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "canola-oil",
+    "name": "Canola Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "soy-sauce",
+    "name": "Soy Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "fish-sauce",
+    "name": "Fish Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "oyster-sauce",
+    "name": "Oyster Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "hoisin-sauce",
+    "name": "Hoisin Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "worcestershire-sauce",
+    "name": "Worcestershire Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "hot-sauce",
+    "name": "Hot Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "sriracha",
+    "name": "Sriracha",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "bbq-sauce",
+    "name": "BBQ Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "rice-vinegar",
+    "name": "Rice Vinegar",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "balsamic-vinegar",
+    "name": "Balsamic Vinegar",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "apple-cider-vinegar",
+    "name": "Apple Cider Vinegar",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "tomato-paste",
+    "name": "Tomato Paste",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "tomato-sauce",
+    "name": "Tomato Sauce",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "salsa",
+    "name": "Salsa",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "pesto",
+    "name": "Pesto",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "miso-paste",
+    "name": "Miso Paste",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "curry-paste",
+    "name": "Curry Paste",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "chili-oil",
+    "name": "Chili Oil",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "maple-syrup",
+    "name": "Maple Syrup",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "molasses",
+    "name": "Molasses",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "coconut-milk",
+    "name": "Coconut Milk",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "vegetable-broth",
+    "name": "Vegetable Broth",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "chicken-broth",
+    "name": "Chicken Broth",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "beef-broth",
+    "name": "Beef Broth",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "dashi-stock",
+    "name": "Dashi Stock",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "wine-cooking",
+    "name": "Wine (Cooking)",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "sake",
+    "name": "Sake",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "mirin",
+    "name": "Mirin",
+    "category": "Condiments, Sauces & Oils",
+    "icon": "🧂"
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "brown-sugar",
+    "name": "Brown Sugar",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "powdered-sugar",
+    "name": "Powdered Sugar",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "baking-soda",
+    "name": "Baking Soda",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "baking-powder",
+    "name": "Baking Powder",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "yeast",
+    "name": "Yeast",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "cocoa-powder",
+    "name": "Cocoa Powder",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "chocolate-chips",
+    "name": "Chocolate Chips",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "dark-chocolate",
+    "name": "Dark Chocolate",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "white-chocolate",
+    "name": "White Chocolate",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "cornstarch",
+    "name": "Cornstarch",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "gelatin",
+    "name": "Gelatin",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "sweetened-condensed-milk",
+    "name": "Sweetened Condensed Milk",
+    "category": "Baking",
+    "icon": "🍰"
+  },
+  {
+    "id": "food-coloring",
+    "name": "Food Coloring",
+    "category": "Baking",
+    "icon": "🍰"
+  }
+]
